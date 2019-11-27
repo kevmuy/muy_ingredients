@@ -4409,7 +4409,7 @@
     },
     {
       "product_id": 379,
-      "category_id": 3,
+      "category_id": 53,
       "category_name": "Sugerido",
       "name": "MUY MUY Arroz con pollo",
       "description": "Arroz con pollo, Chorizo, Plátano maduro, Salsa de tomate  ",
@@ -4789,8 +4789,8 @@
     },
     {
       "product_id": 378,
-      "category_id": 3,
-      "category_name": "Sugerido",
+      "category_id": 53,
+      "category_name": "MUY Sugeridos",
       "name": "MUY Arroz con pollo",
       "description": "Arroz con pollo, Chorizo, Plátano maduro, Salsa de tomate  ",
       "image": "https://s3.us-west-1.amazonaws.com/files-muy/photos/menus/dishes/thumbnails/arroz.png",
