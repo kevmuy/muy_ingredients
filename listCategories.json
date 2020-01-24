@@ -1,0 +1,44 @@
+{
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 1,
+        "name": "Proteina",
+        "description": "Proteina",
+        "position": 0,
+        "dic_status_id": 34,
+        "dic_status_name": "Activo",
+        "dic_status_color": "badge-success"
+      },
+      {
+        "id": 2,
+        "name": "Acompa\u00f1amientos",
+        "description": "Descripcion acompa\u00f1amientos",
+        "position": 0,
+        "dic_status_id": 34,
+        "dic_status_name": "Activo",
+        "dic_status_color": "badge-success"
+      },
+      {
+        "id": 3,
+        "name": "Grano",
+        "description": "Descripcion grano",
+        "position": 0,
+        "dic_status_id": 34,
+        "dic_status_name": "Activo",
+        "dic_status_color": "badge-success"
+      }
+    ],
+    "first_page_url": "http:\/\/supermuy.local\/trays\/groups\/list\/all?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/supermuy.local\/trays\/groups\/list\/all?page=1",
+    "next_page_url": null,
+    "path": "http:\/\/supermuy.local\/trays\/groups\/list\/all",
+    "per_page": "10",
+    "prev_page_url": null,
+    "to": 3,
+    "total": 3
+  }
+}
