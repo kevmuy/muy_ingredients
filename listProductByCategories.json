@@ -1,0 +1,59 @@
+{
+  "list_product_azafates": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 2,
+        "name": "Pollo a la plancha",
+        "tray_group_id": 1,
+        "product_id": 107,
+        "position": 0
+      },
+      {
+        "id": 3,
+        "name": "Pollo asado",
+        "tray_group_id": 1,
+        "product_id": 194,
+        "position": 0
+      },
+      {
+        "id": 4,
+        "name": "pollo desmechado",
+        "tray_group_id": 1,
+        "product_id": 197,
+        "position": 0
+      },
+      {
+        "id": 5,
+        "name": "Tocineta procesada",
+        "tray_group_id": 1,
+        "product_id": 105,
+        "position": 0
+      },
+      {
+        "id": 6,
+        "name": "Chorizo procesado",
+        "tray_group_id": 1,
+        "product_id": 108,
+        "position": 0
+      },
+      {
+        "id": 1,
+        "name": "Fondo de Res",
+        "tray_group_id": 1,
+        "product_id": 86,
+        "position": 1
+      }
+    ],
+    "first_page_url": "http:\/\/supermuy.local\/trays\/products\/1?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/supermuy.local\/trays\/products\/1?page=1",
+    "next_page_url": null,
+    "path": "http:\/\/supermuy.local\/trays\/products\/1",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 6,
+    "total": 6
+  }
+}
