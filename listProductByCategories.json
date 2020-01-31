@@ -3,63 +3,51 @@
   "data": [
     {
       "avatar": "https://raw.githubusercontent.com/fgomezmuy/super-muy/09e3ecb36e0361120a25cf2d68fc752b0ae11d17/trays/images/arroz-blanco.png",
-      "tray_id": 2,
+      "id": 2,
       "tray_number": 1,
-      "product_name": "Pollo a la plancha",
+      "name": "Pollo a la plancha",
       "tray_group_id": 1,
-      "tray_group_name": "Proteina",
-      "product_id": 107,
-      "position": 0
+      "product_id": 107
     },
     {
       "avatar": "https://raw.githubusercontent.com/fgomezmuy/super-muy/09e3ecb36e0361120a25cf2d68fc752b0ae11d17/trays/images/arroz-blanco.png",
-      "tray_id": 3,
+      "id": 3,
       "tray_number": 2,
-      "product_name": "Pollo asado",
+      "name": "Pollo asado",
       "tray_group_id": 1,
-      "tray_group_name": "Proteina",
-      "product_id": 194,
-      "position": 0
+      "product_id": 194
     },
     {
       "avatar": "https://raw.githubusercontent.com/fgomezmuy/super-muy/09e3ecb36e0361120a25cf2d68fc752b0ae11d17/trays/images/arroz-blanco.png",
-      "tray_id": 4,
+      "id": 4,
       "tray_number": 3,
-      "product_name": "pollo desmechado",
+      "name": "pollo desmechado",
       "tray_group_id": 1,
-      "tray_group_name": "Proteina",
-      "product_id": 197,
-      "position": 0
+      "product_id": 197
     },
     {
       "avatar": "https://raw.githubusercontent.com/fgomezmuy/super-muy/09e3ecb36e0361120a25cf2d68fc752b0ae11d17/trays/images/arroz-blanco.png",
-      "tray_id": 5,
+      "id": 5,
       "tray_number": 4,
-      "product_name": "Tocineta procesada",
+      "name": "Tocineta procesada",
       "tray_group_id": 1,
-      "tray_group_name": "Proteina",
-      "product_id": 105,
-      "position": 0
+      "product_id": 105
     },
     {
       "avatar": "https://raw.githubusercontent.com/fgomezmuy/super-muy/09e3ecb36e0361120a25cf2d68fc752b0ae11d17/trays/images/arroz-blanco.png",
-      "tray_id": 6,
+      "id": 6,
       "tray_number": 5,
-      "product_name": "Chorizo procesado",
+      "name": "Chorizo procesado",
       "tray_group_id": 1,
-      "tray_group_name": "Proteina",
-      "product_id": 108,
-      "position": 0
+      "product_id": 108
     },
     {
       "avatar": "https://raw.githubusercontent.com/fgomezmuy/super-muy/09e3ecb36e0361120a25cf2d68fc752b0ae11d17/trays/images/arroz-blanco.png",
-      "tray_id": 1,
+      "id": 1,
       "tray_number": 6,
-      "product_name": "Fondo de Res",
+      "name": "Fondo de Res",
       "tray_group_id": 1,
-      "tray_group_name": "Proteina",
-      "product_id": 86,
-      "position": 1
+      "product_id": 86
     }
   ]
 }
