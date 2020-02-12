@@ -1,6 +1,6 @@
 {
-  "company_id": 1 int,
-  "name": "name_campaign" string,
-  "description": "description" string,
-  "budget": 100000 int
+  "company_id": 1,
+  "name": "name_campaign",
+  "description": "description",
+  "budget": 100000
 }
