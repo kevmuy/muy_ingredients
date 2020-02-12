@@ -1,0 +1,36 @@
+{
+    "status": "SUCCESS",
+    "code": 200,
+    "result_code": "campaign_success",
+    "message": "campaign list by company",
+    "data": [
+        {
+            "id": 9,
+            "status": 1,
+            "status_name": "Activa",
+            "name": "Descuento COCA",
+            "description": "Cupon de 2300",
+            "budget": 0,
+            "redeemed_budget: 0,
+            "created_at": "2020-01-29 00:00:00"
+        },
+        {
+            "id": 9,
+            "status": 1,
+            "status_name": "Activa",
+            "name": "Descuento COCA",
+            "description": "Cupon de 2300",
+            "budget": 0,
+            "redeemed_budget": 0,
+            "created_at": "2020-01-29 00:00:00"
+        }
+    ],
+    "properties": {
+        "total": 2,
+        "per_page": 20,
+        "current_page": 1,
+        "last_page": 1,
+        "filters": {}
+    },
+    "errors": []
+}
