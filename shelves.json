@@ -1,0 +1,85 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "name": "Leanne Graham",
+      "nomenclature": 7500
+    },
+    {
+      "name": "Ervin Howell",
+      "nomenclature": 20000
+    },
+    {
+      "name": "Clementine Bauch",
+      "nomenclature": 9000
+    },
+    {
+      "name": "Patricia Lebsack",
+      "nomenclature": 7500
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "nomenclature": 20000
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "nomenclature": 9000
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "nomenclature": 7500
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "nomenclature": 20000
+    },
+    {
+      "name": "Glenna Reichert",
+      "nomenclature": 9000
+    },
+    {
+      "name": "Clementina DuBuque",
+      "nomenclature": 9000
+    },
+    {
+      "name": "Luan Loud",
+      "nomenclature": 7500
+    },
+    {
+      "name": "Luna Loud",
+      "nomenclature": 20000
+    },
+    {
+      "name": "Lincon Bauch",
+      "totalCost": 9000
+    },
+    {
+      "name": "Patricia Loud",
+      "nomenclature": 7500
+    },
+    {
+      "name": "Mario Do Nacimiento",
+      "nomenclature": 20000
+    },
+    {
+      "name": "Alirio Otálora",
+      "nomenclature": 9000
+    },
+    {
+      "name": "Kurtis Auditsus",
+      "nomenclature": 7500
+    },
+    {
+      "name": "Nicholas Vladsirtus",
+      "nomenclature": 20000
+    },
+    {
+      "name": "Mario do Santos",
+      "nomenclature": 9000
+    },
+    {
+      "name": "Ernestina Rabinha",
+      "nomenclature": 9000
+    }
+  ]
+}
